@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALLBACKS</title>
+</head>
+<body>
+    <script>
+        function salam(nama) {
+            alert('selamat malam ' + nama); // output akan ditampilkan pada kotak pop-up
+        }
+        function input(callback) {
+            var nama = prompt('input nama');
+            callback(nama);
+        }
+        input(salam);
+    </script>
+</body>
+</html>
