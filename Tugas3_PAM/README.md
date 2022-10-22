@@ -1,7 +1,9 @@
 # Pencarian Jadwal Pesawat
 
 Nama    : Gracia Sherianta Br Sitepu
+
 NIM     : 120140084
+
 Kelas   : RA
 
 # Deskripsi Aplikasi
@@ -34,9 +36,13 @@ Aplikasi sederhana pencarian jadwal pesawat terdiri dari dua halaman yaitu halam
 2. Cara kedua dengan clone folder repository `Tugas3_PAM` atau download ZIP, lalu pada cmd jalankan dengan perintah berikut:
 
     > npm install
+    
     Masuk ke folder project aplikasi dengan perintah:
+    
     > cd Tugas3_PAM
+    
     lalu jalankan dengan perintah:
+    
     > npm start or expo start
 
 3. Setelah itu, akan ditampilkan qr code lalu scan dengan Expo Go android atau press `w` untuk menjalankan di web browser.
