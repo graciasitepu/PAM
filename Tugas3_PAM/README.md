@@ -27,7 +27,7 @@ Aplikasi sederhana pencarian jadwal pesawat terdiri dari dua halaman yaitu halam
     "react-native-web": "0.17.1"
 
 # Instalasi Aplikasi
-1. Untuk menginstall aplikasi, open link berikut ini [Download apk]() lalu download file apk yang disediakan. Setelah download file aplikasi selesai, lakukan install dan aplikasi sudah dapat digunakan.
+1. Untuk menginstall aplikasi, open link berikut ini [Download apk](https://drive.google.com/file/d/1yhX15vTuY-jT13FwGKhJOTIijjScHx1g/view?usp=sharing) lalu download file apk yang disediakan. Setelah download file aplikasi selesai, lakukan install dan aplikasi sudah dapat digunakan.
 
 2. Cara kedua dengan clone folder repository `Tugas3_PAM` atau download ZIP, lalu pada cmd jalankan dengan perintah berikut:
 
